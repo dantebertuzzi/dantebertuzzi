@@ -2,5 +2,5 @@
 
 Statistician in Petrolina, Brazil. I write Julia packages for Brazilian public data.
 
-> *"All models are wrong, but some are useful."*
-> — George E. P. Box
+> *"The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data."*
+> — John W. Tukey, *Sunset Salvo* (1986)
